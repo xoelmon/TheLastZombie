@@ -3,7 +3,7 @@
 Demo de acción/supervivencia desarrollada en Unity. Este repositorio contiene el proyecto Unity completo.
 
 Demo jugable: https://lagartixa-soundlab.itch.io/
-Autor: Xoel Mon López -- linkedin.com/in/xoelmonlopez/
+Autor: Xoel Mon López -- www.linkedin.com/in/xoelmonlopez/
 
 ---
 
